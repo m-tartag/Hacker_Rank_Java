@@ -2,8 +2,8 @@ package org.hacker.solutions;
 
 public class Practice {
 
-    public String firstName;
-    public String lastName;
+    private String firstName;
+    private String lastName;
     private int birthYear;
 
     public Practice(String firstName, String lastName, int birthYear) {
@@ -11,9 +11,20 @@ public class Practice {
         this.lastName = lastName;
         this.birthYear = birthYear;
     }
+    public String fullName() {
+        return firstName + ' ' + lastName;
+    }
 
-    int ageCalc() {
-        return 2020 - birthYear;
+    public String ageCalc() {
+        return "Age: " + (2020 - birthYear);
+    }
+
+    public String setGreeting() {
+        if (this.firstName == "Matt") {
+            return "Access Granted";
+        } else {
+            return "Access Denied";
+        }
     }
 }
 
@@ -21,8 +32,8 @@ class Run {
 
      public static void main(String[] args) {
          Practice person = new Practice("Matt", "Tartaglia", 1988);
-         System.out.println(person.firstName);
-         System.out.println(person.lastName);
+         System.out.println(person.fullName());
          System.out.println(person.ageCalc());
+         System.out.println(person.setGreeting());
      }
  }
