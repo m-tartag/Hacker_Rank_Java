@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a570cd2a-543a-4703-80e3-769310159670" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_15/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_16/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration name="Day_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.hacker.solutions.Day_14" />
       <module name="HackerRank" />
@@ -95,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dark.proj.Main" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.hacker.solutions.day_16.Solution" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dark.proj.*" />
+          <option name="PATTERN" value="org.hacker.solutions.day_16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Day_7" />
         <item itemvalue="Application.Day_6" />
         <item itemvalue="Application.Day_14" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +145,7 @@
       <workItem from="1582816726085" duration="376000" />
       <workItem from="1582821569826" duration="8258000" />
       <workItem from="1583122091168" duration="858000" />
-      <workItem from="1583817630886" duration="15545000" />
+      <workItem from="1583817630886" duration="16376000" />
     </task>
     <servers />
   </component>
@@ -161,25 +161,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1582562589033" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1583862130285">
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1583865280592">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583862130285" />
+    <state width="1398" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583865280592" />
     <state width="1398" height="212" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1582822324994" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1583862130284">
+    <state width="1398" height="244" key="GridCell.Tab.0.center" timestamp="1583865280590">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583862130284" />
+    <state width="1398" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583865280590" />
     <state width="1398" height="212" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1582822324992" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1583862130283">
+    <state width="1398" height="244" key="GridCell.Tab.0.left" timestamp="1583865280589">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583862130283" />
+    <state width="1398" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583865280589" />
     <state width="1398" height="212" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1582822324991" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1583862130284">
+    <state width="1398" height="244" key="GridCell.Tab.0.right" timestamp="1583865280591">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583862130284" />
+    <state width="1398" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583865280591" />
     <state width="1398" height="212" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1582822324993" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1582694625113">
       <screen x="0" y="0" width="1440" height="900" />
