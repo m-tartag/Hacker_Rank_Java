@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a570cd2a-543a-4703-80e3-769310159670" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_17/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_18/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_19/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,7 +146,7 @@
       <workItem from="1582816726085" duration="376000" />
       <workItem from="1582821569826" duration="8258000" />
       <workItem from="1583122091168" duration="858000" />
-      <workItem from="1583817630886" duration="17393000" />
+      <workItem from="1583817630886" duration="18385000" />
     </task>
     <servers />
   </component>
