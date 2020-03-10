@@ -1,4 +1,4 @@
-package org.hacker.solutions;
+package org.hacker.solutions.day_13;
 
 abstract class Book {
     String title;

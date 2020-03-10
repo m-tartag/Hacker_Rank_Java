@@ -1,11 +1,11 @@
 package org.hacker.solutions;
 
-import java.util.Hashtable;
+import java.util.HashMap;
 import java.util.Scanner;
 
 class Day_7{
     public static void main(String... parameters){
-        Hashtable<String, Integer> phoneBook = new Hashtable<>();
+        HashMap<String, Integer> phoneBook = new HashMap<>();
 
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
