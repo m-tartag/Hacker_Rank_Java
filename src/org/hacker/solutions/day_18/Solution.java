@@ -1,10 +1,44 @@
 package org.hacker.solutions.day_18;
 
-import java.io.*;
-import java.util.*;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Scanner;
+import java.util.Stack;
 
 public class Solution {
     // Write your code here.
+
+    // ---- My Code ----
+
+    Stack<Character> myStack = new Stack();
+    Queue<Character> myQueue = new LinkedList<>();
+
+    void pushCharacter(char ch) {
+        myStack.push(ch);
+
+    }
+
+    void enqueueCharacter(char ch) {
+        myQueue.add(ch);
+    }
+
+    char popCharacter() {
+        return myStack.pop();
+
+    }
+
+    char dequeueCharacter() {
+        return myQueue.remove();
+
+    }
+
+    // ---- End My Code ----
+
+//    A void pushCharacter(char ch) method that pushes a character onto a stack.
+//    A void enqueueCharacter(char ch) method that enqueues a character in the  instance variable.
+//    A char popCharacter() method that pops and returns the character at the top of the  instance variable.
+//    A char dequeueCharacter() method that dequeues and returns the first character in the  instance variable.
+
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

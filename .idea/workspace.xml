@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a570cd2a-543a-4703-80e3-769310159670" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_18/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_19/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hacker/solutions/day_18/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_18/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +145,7 @@
       <workItem from="1582816726085" duration="376000" />
       <workItem from="1582821569826" duration="8258000" />
       <workItem from="1583122091168" duration="858000" />
-      <workItem from="1583817630886" duration="18385000" />
+      <workItem from="1583817630886" duration="19355000" />
     </task>
     <servers />
   </component>
@@ -162,6 +161,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1582562589033" />
+    <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1583872827799">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="204" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1583872827799" />
     <state width="1398" height="244" key="GridCell.Tab.0.bottom" timestamp="1583865291699">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -207,10 +210,10 @@
     </state>
     <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1583817633078" />
     <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1582816728160" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583044506445">
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583872324682">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583044506445" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1583872324682" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
