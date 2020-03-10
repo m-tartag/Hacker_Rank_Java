@@ -26,14 +26,12 @@ public class Solution {
         return myStack.pop();
 
     }
-
     char dequeueCharacter() {
         return myQueue.remove();
 
     }
 
     // ---- End My Code ----
-
 //    A void pushCharacter(char ch) method that pushes a character onto a stack.
 //    A void enqueueCharacter(char ch) method that enqueues a character in the  instance variable.
 //    A char popCharacter() method that pops and returns the character at the top of the  instance variable.
