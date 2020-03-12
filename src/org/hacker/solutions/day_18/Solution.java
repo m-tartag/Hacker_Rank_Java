@@ -6,7 +6,7 @@ import java.util.Scanner;
 import java.util.Stack;
 
 public class Solution {
-    // Write your code here.
+
 
     // ---- My Code ----
 
@@ -32,10 +32,8 @@ public class Solution {
     }
 
     // ---- End My Code ----
-//    A void pushCharacter(char ch) method that pushes a character onto a stack.
-//    A void enqueueCharacter(char ch) method that enqueues a character in the  instance variable.
-//    A char popCharacter() method that pops and returns the character at the top of the  instance variable.
-//    A char dequeueCharacter() method that dequeues and returns the first character in the  instance variable.
+
+
 
 
     public static void main(String[] args) {
