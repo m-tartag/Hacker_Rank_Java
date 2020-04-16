@@ -15,7 +15,6 @@ public class Solution {
 
     void pushCharacter(char ch) {
         myStack.push(ch);
-
     }
 
     void enqueueCharacter(char ch) {
@@ -32,8 +31,6 @@ public class Solution {
     }
 
     // ---- End My Code ----
-
-
 
 
     public static void main(String[] args) {

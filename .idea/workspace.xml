@@ -4,6 +4,7 @@
     <list default="true" id="a570cd2a-543a-4703-80e3-769310159670" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/org/hacker/solutions/day_18/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_18/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hacker/solutions/day_21/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_21/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,7 +148,9 @@
       <workItem from="1583122091168" duration="858000" />
       <workItem from="1583817630886" duration="20523000" />
       <workItem from="1583898446053" duration="5106000" />
-      <workItem from="1584025722116" duration="72000" />
+      <workItem from="1584025722116" duration="2164000" />
+      <workItem from="1585843096347" duration="408000" />
+      <workItem from="1587057475801" duration="203000" />
     </task>
     <servers />
   </component>

@@ -14,6 +14,7 @@ class Printer <T> {
     // Write your code here
 
     // ---- My Code ----
+
     public void printArray(T[] inputArray) {
 
         for (T element : inputArray) {

@@ -34,7 +34,7 @@ public class Solution {
 
         scanner.close();
 
-        // ===== My Code =====
+        // ===== My Code ======
 
         System.out.println(factorial(n));
     }
