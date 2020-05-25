@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Solution {
 
-    // Complete the factorial function below.
+    // Complete the factorial function below
 
     static int factorial(int n) {
 

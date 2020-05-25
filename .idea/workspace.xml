@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a570cd2a-543a-4703-80e3-769310159670" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/org/hacker/solutions/Lol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_18/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_18/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_21/Printer$Generics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_21/Printer$Generics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_21/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_21/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_22/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HackerRank/org/hacker/solutions/day_22/Solution.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/org/hacker/solutions/day_9/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/org/hacker/solutions/day_9/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,7 +152,8 @@
       <workItem from="1587057475801" duration="862000" />
       <workItem from="1587138521306" duration="47000" />
       <workItem from="1587169951093" duration="782000" />
-      <workItem from="1589233802186" duration="26000" />
+      <workItem from="1589233802186" duration="523000" />
+      <workItem from="1590419133975" duration="38000" />
     </task>
     <servers />
   </component>
@@ -216,10 +213,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1583044530622" />
-    <state x="413" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1589233808927">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="413" y="266" key="com.intellij.ide.util.TipDialog" timestamp="1590419136562">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1587169959590" />
+    <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1590419136562" />
     <state x="413" y="266" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1589233808927" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1583874812840">
       <screen x="0" y="0" width="1440" height="900" />
